@@ -17,10 +17,6 @@
             "group": "Getting started",
             "pages": [
               "index",
-              {
-              "group": "Nested Reference Pages",
-              "pages": ["nested-reference-page"]
-            },
               "quickstart",
               "development"
             ]
