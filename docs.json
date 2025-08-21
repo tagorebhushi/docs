@@ -17,12 +17,11 @@
             "group": "Getting started onboarding",
             "pages": [
               {
-                "group":"Account Set up",
-                "Pages": [
-                  "Account-setup/Signing-In",
+                "group": "Account Setup",
+                "pages": [
+                  "Account-setup/Signing-In"
                 ]
               }
-             
             ]
           },
           {
@@ -111,15 +110,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
