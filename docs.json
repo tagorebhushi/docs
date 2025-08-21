@@ -74,8 +74,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/Salescaptainlogo.png",
-    "dark": "/logo/Salescaptainlogo.png"
+    "light": "/logo/Salescaptain-black.png",
+    "dark": "/logo/Salescaptain-white.png"
   },
   "navbar": {
     "links": [
