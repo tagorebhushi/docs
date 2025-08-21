@@ -19,9 +19,9 @@
               {
                 "group": "Account Setup",
                 "pages": [
-                  "Getting-Started/Introduction/Account-Setup",
-                  "Getting-Started/Introduction/Plans",
-                  "Getting-Started/Introduction/Signing-In"
+                  "General/Getting-Started/Introduction/Signing-In",
+                  "General/Getting-Started/Introduction/Plans",
+                  "General/Getting-Started/Introduction/Account-Setup"
                 ]
               }
             ]
