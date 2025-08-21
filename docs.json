@@ -24,6 +24,7 @@
           {
             "group": "Customization",
             "pages": [
+              "TEST",
               "essentials/settings",
               "essentials/navigation"
             ]
