@@ -18,6 +18,7 @@
             "pages": [
               {
                 "group": "Account Setup",
+                icon: "book"
                 "pages": [
                   "Account-setup/Signing-In",
                   "Account-setup/Set-Up-Your-Account"
