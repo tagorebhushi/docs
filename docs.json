@@ -21,7 +21,16 @@
                 "pages": [
                   "General/Getting-Started/Introduction/Signing-In",
                   "General/Getting-Started/Introduction/Plans",
-                  "General/Getting-Started/Introduction/Account-Setup"
+                  "General/Getting-Started/Introduction/Account-Setup",
+                  {
+                    "group":"Getting Familiar",
+                    "pages":[
+                      "General/Getting-Started/Getting-Familiar/Mobile-Installation",
+                      "General/Getting-Started/Getting-Familiar/Desktop-Installation",
+                      "General/Getting-Started/Getting-Familiar/Dashboard",
+                      "General/Getting-Started/Getting-Familiar/Branding"
+                    ]
+                  }
                 ]
               }
             ]
