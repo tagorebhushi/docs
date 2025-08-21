@@ -14,11 +14,15 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Getting started onboarding",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              {
+                "group":"Account Set up",
+                "Pages": [
+                  "Account-setup/Signing-In",
+                ]
+              }
+             
             ]
           },
           {
