@@ -16,12 +16,13 @@
           {
             "group": "Getting started onboarding",
             "pages": [
-              {
-                "group": "Account Setup",
-                "pages": [
-                  "Account-setup/Signing-In"
-                ]
-              }
+             {
+                  "group": "Account Setup",
+                  "pages": [
+                    "Account-setup/Signing-In",
+                    "Account-setup/Set-Up-Your-Account"
+                  ]
+                }
             ]
           },
           {
