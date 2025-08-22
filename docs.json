@@ -36,7 +36,19 @@
                 ]
               }
             ]
-          },
+          }
+          {
+            "group":"Core Features",
+            "pages":[
+              {
+                "group":"Calling",
+                "pages":[
+                  "Core-Features/Calls/Calling/Receiving-Calls"
+                ]
+              }
+            ]
+          }
+          ,
           {
             "group": "Customization",
             "pages": [
