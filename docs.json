@@ -21,7 +21,19 @@
                 "pages": [
                   "General/Getting-Started/Introduction/Signing-In",
                   "General/Getting-Started/Introduction/Plans",
-                  "General/Getting-Started/Introduction/Account-Setup"
+                  "General/Getting-Started/Introduction/Account-Setup",
+                  {
+                    "group":"Migration",
+                    "pages":[
+                      "General/Getting-Started/Introduction/Migration/From-Podium",
+                      "General/Getting-Started/Introduction/Migration/From-Birdeye",
+                      "General/Getting-Started/Introduction/Migration/From-Dialpad",
+                      "General/Getting-Started/Introduction/Migration/From-Nextiva",
+                      "General/Getting-Started/Introduction/Migration/From-Openphone",
+                      "General/Getting-Started/Introduction/Migration/From-RingCentral"
+                    ]
+                    
+                  }
                 ]
               }
             ]
