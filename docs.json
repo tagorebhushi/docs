@@ -15,6 +15,7 @@
         "groups": [
           {
             "group": "Getting started onboarding",
+            "icon": "<book>",
             "pages": [
               {
                 "group": "Account Setup",
